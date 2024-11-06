@@ -21,4 +21,4 @@ A Python project to scrape football data from the Norwegian Eliteserien league.
 
 to run: python scraper.py
 
-also included is a script to delete all database tables for.
+(also included is a script to delete all database tables)
